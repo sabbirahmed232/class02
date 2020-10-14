@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+	}
+.box1{
+	margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1100px;
+    padding-top: 10px;
+	}
+.box1 h2{
+		text-align: center;
+    	margin: 0;
+    	padding: 3px 0px;
+		}
+.fast{
+	color: #63e20e;
+	}
+.fast2{
+	color: red;
+}
+.fast3{
+	color: #09f509;
+}
+.fast4{
+	color: #ffd60aeb;
+}
+.box1 img{
+	max-width: 100%;
+	padding-top: 50px;
+}
+.box2{
+	margin-top: 20px;
+}
+.box2 p{
+	font-size: 16px;
+    line-height: 22px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box2 h2{
+	margin: 0;
+    padding: 2px;
+    line-height: 26px;
+}
+.box3{
+	background-color: green;
+}
+.box3 p{
+	font-size: 88px;
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+}
